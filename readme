@@ -1,16 +1,48 @@
-🎮 RandomGame
-Você já pensou em escolher um jogo, mas ficou em dúvida?
-Ou até encontrou vários, mas logo surgiu um problema: seu computador não roda.
+# 🎮 RandomGame
 
-Seus problemas acabaram!
+RandomGame é um projeto desenvolvido com o objetivo de facilitar a escolha de jogos para usuários indecisos, oferecendo uma solução simples, rápida e funcional.
 
-RandomGame é um aplicativo com design simples e funcional, feito para economizar seu tempo e garantir que você se divirta mais rápido.
+A aplicação realiza a seleção aleatória de jogos com base em gêneros, ajudando o usuário a economizar tempo e iniciar sua experiência de forma imediata.
 
-“A dúvida acabou. Nós escolhemos por você.”
+> A dúvida acabou. Nós escolhemos por você.
 
-🚀 Recursos
-randomização de jogos variada por gênero
+---
 
-Interface minimalista e intuitiva
+## 📌 Visão geral do projeto
 
-Foco em rapidez e praticidade
+Muitos jogadores enfrentam dificuldades ao escolher o que jogar, seja pela grande quantidade de opções disponíveis ou por limitações de hardware.  
+O RandomGame surge como uma alternativa prática, focada na objetividade e na experiência do usuário.
+
+---
+
+## 🚀 Funcionalidades
+
+- Seleção aleatória de jogos
+- Interface simples e intuitiva
+- pesquisar sobre o jogo depois de escolhido
+- Foco em usabilidade e rapidez
+
+---
+
+## 🕹️ Gêneros disponíveis
+
+- Ação, fps
+- multiplayer  
+- corrida  
+- Indie  
+- casual  
+
+---
+
+## 🛠️ Tecnologias utilizadas
+
+- jetpack compose
+- Android Studio
+
+---
+
+## 📦 Como executar o projeto
+
+1. baixe apk na aba releases
+2. instale
+4. Clique em **Começar Agora**
